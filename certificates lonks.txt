@@ -1,0 +1,55 @@
+Certificate Link:
+Web server - https://udemy-certificate.s3.amazonaws.com/pdf/UC-daa31b8d-91ca-4536-890a-7d38a17621a1.pdf 
+AML - https://udemy-certificate.s3.amazonaws.com/pdf/UC-d1d3cc90-056c-48d3-ba0e-505239586773.pdfSRV*c:\symbols*http://msdl.microsoft.com/download/symbols
+
+AWS - https://digitalcloud.training/aws-csa-pro-downloads/
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-8daa0384-5b2b-4dd7-b6f6-27f5b1d5df63.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-8daa0384-5b2b-4dd7-b6f6-27f5b1d5df63.jpg
+https://cognizant.udemy.com/certificate/UC-8daa0384-5b2b-4dd7-b6f6-27f5b1d5df63/
+SQL: https://udemy-certificate.s3.amazonaws.com/image/UC-ac87b5bf-e206-4cbc-9e68-4f40d8c924d8.jpg
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-ac87b5bf-e206-4cbc-9e68-4f40d8c924d8.pdf
+https://cognizant.udemy.com/certificate/UC-ac87b5bf-e206-4cbc-9e68-4f40d8c924d8/
+
+project: ML -supervised,semi supervised, unsupervised and reinforcement(ALGORITHMS)
+ML(models)- binary classification, muticlass,regression
+Recomm sys: recomm engines ae subclass of ML  some use algorithmic and formulaic approaches like Page Rank while others use more modelling centric approaches like collaborative filtering, content based, link prediction, etc. All of these approaches can vary in complexity, but complexity does not translate to “good” performance.
+Singular value decomposition 
+
+
+
+Certificate Link:
+Web server - https://udemy-certificate.s3.amazonaws.com/pdf/UC-daa31b8d-91ca-4536-890a-7d38a17621a1.pdf 
+AML - https://udemy-certificate.s3.amazonaws.com/pdf/UC-d1d3cc90-056c-48d3-ba0e-505239586773.pdfSRV*c:\symbols*http://msdl.microsoft.com/download/symbols
+
+AWS - https://digitalcloud.training/aws-csa-pro-downloads/
+
+Excel:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-c6cecda5-36ce-4824-8861-d490fa8fddae.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-c6cecda5-36ce-4824-8861-d490fa8fddae.jpg
+
+Web development:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-310b9b9e-8300-45b8-8a41-384c7e371fbb.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-310b9b9e-8300-45b8-8a41-384c7e371fbb.jpg
+
+Devops:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-9a7af8e5-608b-4558-889c-159651c44802.pdf 
+https://udemy-certificate.s3.amazonaws.com/image/UC-9a7af8e5-608b-4558-889c-159651c44802.jpg
+
+Power BI:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-22fcb379-795d-4869-b22b-42ce1cba1d79.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-22fcb379-795d-4869-b22b-42ce1cba1d79.jpg
+
+Tableau:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-bff4340d-69b6-4f27-987b-bea7efa516e3.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-bff4340d-69b6-4f27-987b-bea7efa516e3.jpg
+
+MongoDB:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-b5a658ba-42f7-488c-b5ef-ec21f07c0c0e.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-b5a658ba-42f7-488c-b5ef-ec21f07c0c0e.jpg
+
+My sql:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-ac87b5bf-e206-4cbc-9e68-4f40d8c924d8.pdf
+https://udemy-certificate.s3.amazonaws.com/image/UC-ac87b5bf-e206-4cbc-9e68-4f40d8c924d8.jpg
+
+Python:
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-42ef92eb-c811-4fbf-bac6-cbebf1ad86b0.pdfhttps://udemy-certificate.s3.amazonaws.com/image/UC-42ef92eb-c811-4fbf-bac6-cbebf1ad86b0.jpg
